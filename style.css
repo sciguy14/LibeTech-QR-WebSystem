@@ -1,0 +1,73 @@
+@charset "utf-8";
+body {
+	font-family: 'Dosis', sans-serif;
+	font-size:1.4em;
+	background: #FFFFFF;
+	margin: 0;
+	padding: 0;
+	color: #000;
+}
+
+ul, ol, dl {
+	padding: 0;
+	margin: 0;
+}
+h1, h2, h3, h4, h5, h6, p {
+	margin-top: 0;
+	padding-right: 15px;
+	padding-left: 15px;
+	line-height: 150%;
+}
+a img {
+	border: none;
+}
+
+a:link {
+	color: #b81f24;
+	text-decoration: underline;
+}
+a:visited {
+	color: #7c1518;
+	text-decoration: underline;
+}
+a:hover, a:active, a:focus {
+	text-decoration: none;
+}
+
+
+.container {
+	background: #FFFFFF;
+	margin: auto;
+}
+
+
+
+.content {
+	width:800px;
+	margin:auto;
+}
+.content ul, .content ol {
+	padding: 0 15px 15px 40px;
+}
+
+
+footer {
+	padding: 10px 0;
+	background: #FFFFFF;
+	position: relative;
+	clear: both;
+	text-align:center;
+	font-size:x-small;
+}
+
+.clearfloat {
+	clear:both;
+	height:0;
+	font-size: 1px;
+	line-height: 0px;
+}
+
+/*HTML 5 support - Sets new HTML 5 tags to display:block so browsers know how to render the tags properly. */
+header, section, footer, aside, nav, article, figure {
+	display: block;
+}

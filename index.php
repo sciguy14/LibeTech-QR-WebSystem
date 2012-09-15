@@ -4,10 +4,10 @@
 <meta charset="utf-8">
 <title>Libe Technologies :: Demo System</title>
 
-<script type="text/javascript" src="/js/jquery-1.7.1.min.js"></script>
+<script type="text/javascript" src="jquery-1.7.1.min.js"></script>
 <script src="gen_validatorv4.js" type="text/javascript"></script>
 <link href='http://fonts.googleapis.com/css?family=Dosis' rel='stylesheet' type='text/css'>
-<link href="/style.css" rel="stylesheet" type="text/css">
+<link href="style.css" rel="stylesheet" type="text/css">
 </head>
 
 <body>
@@ -17,7 +17,7 @@
   <article class="content" align="center" >
       
     <section align="center">
-    	<img src="/images/libetech-small.png" alt="LibeTech">
+    	<img src="libetech-small.png" alt="LibeTech">
         <br />
 		<h1>DEMO Check-In System (HEC 2012)</h1>
         <br />
